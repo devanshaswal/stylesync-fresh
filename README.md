@@ -1,4 +1,4 @@
-This is final year dissertation project.
+This is the final-year dissertation project that I completed in my final year at Brunel University London and got an A grade on.
 # StyleSync 👗📊
 
 **A Multimodal Fashion Recommendation System using ResNet and Vision Transformer**
